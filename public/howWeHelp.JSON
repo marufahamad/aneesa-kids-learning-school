@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1003,
+        "topic": "Good Environment",
+        "image": "https://www.thestatesman.com/wp-content/uploads/2020/05/study.jpg",
+        "description": "A good learning environment offers a safe platform for learners. Before you can expect learners to succeed academically, they should also feel safe both mentally and physically. While most of the schools take physical safety measures, not many learning platforms consider the mental safety of the learners.",
+        "shortNote": "A good learning environment offers a safe platform for learners."
+    },
+    {
+        "id": 1001,
+        "topic": "Caring Kids",
+        "image": "https://www.catholicweekly.com.au/wp-content/uploads/2018/10/7-tips-for-caring-kids-1.jpg",
+        "description": "Healthy babies cry, coo and make other noises to express their needs and communicate with the people around them. Most of the time, you can figure out what they need. But there are times when even the most caring parent or caregiver can’t soothe a crying baby. The Caring Kids program provides resources and services to children ages 1 to 5 and their families to help support healthy and optimal child development.",
+        "shortNote": "The Caring Kids program provides resources and services to children ages 1 to 5 and their families to help support healthy and optimal child development."
+    },
+    {
+        "id": 1002,
+        "topic": "Special Care for Special Children",
+        "image": "https://i.ytimg.com/vi/So2eDnKosJc/maxresdefault.jpg",
+        "description": "A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child’s well-being and growth. Special needs can also be a legal designation, particularly in the adoption and foster care community, wherein the child and guardian receive support to help them both lead productive lives.",
+        "shortNote": "A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not."
+    },
+    {
+        "id": 1004,
+        "topic": "Expert Teachers for Everyone",
+        "image": "https://thehill.com/sites/default/files/styles/article_full/public/ca_teacher_102419_istock.jpg",
+        "description": "A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child’s well-being and growth. Special needs can also be a legal designation, particularly in the adoption and foster care community, wherein the child and guardian receive support to help them both lead productive lives.",
+        "shortNote": "A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not."
+    }
+]

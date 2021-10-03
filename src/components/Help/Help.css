@@ -1,0 +1,11 @@
+.cards{
+    min-height: 620px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.cards img{
+    max-height: 500px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 2px;
+}

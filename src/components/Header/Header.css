@@ -1,0 +1,18 @@
+.header-background{
+    background-image: url(https://images.pexels.com/photos/8926406/pexels-photo-8926406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+.header-name{
+    font-family: 'Leckerli One', cursive;
+}
+.header{
+    height: 400px;
+}
+.background{
+    background-color: rgba(37, 37, 10, 0.404);
+}
