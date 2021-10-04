@@ -1,41 +1,5 @@
 [
     {
-        "id": "2001",
-        "Name": "Nursery",
-        "img": "https://images.adsttc.com/media/images/5012/c01a/28ba/0d14/7d00/086d/large_jpg/stringio.jpg",
-        "ageLimit": "3-4 Years",
-        "duration": "12 Months",
-        "regFee": "5",
-        "description": "A nursery school is a school for children between the ages of three and four years, staffed by suitably qualified and other professionals who encourage and supervise educational play rather than simply providing childcare."
-    },
-    {
-        "id": "2002",
-        "Name": "Kindergarten-1",
-        "img": "https://tootris.com/edu/wp-content/uploads/2020/04/difference-between-kinder-1200x900.png",
-        "ageLimit": "4-5 Years",
-        "duration": "12 Months",
-        "regFee": "10",
-        "description": "Children's thinking and learning beyond elementary school age continues to become more sophisticated in that older children are capable of solving more complex and abstract problems involving more variables, more logical steps, and more remote relations between analogous tasks, as well as those that require the coordination of various components of thinking."
-    },
-    {
-        "id": "2005",
-        "Name": "Kindergarten-2",
-        "img": "https://www.wimbledondaynursery.co.uk/blog/wp-content/uploads/2018/12/Perfect-Nursery-School-for-Your-Child-980x600.jpg",
-        "ageLimit": "5-6 Years",
-        "duration": "12 Months",
-        "regFee": "10",
-        "description": "During the child's year in kindergarten he/she will be learning many things in the areas of academics, physical development, socialization, and emotional development. Academic areas will include math, pre–reading, science, and social studies. Math skills to be covered include grouping, sorting, patterning, numbers, shapes, money, time, and measurement."
-    },
-    {
-        "id": "2006",
-        "Name": "Special Child Education",
-        "img": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Disabilities-Donna-Bowman-2.jpg",
-        "ageLimit": "1-12 Years",
-        "duration": "24 Months",
-        "regFee": "0",
-        "description": "Special education serves children with emotional, behavioral, or cognitive impairments or with intellectual, hearing, vision, speech, or learning disabilities; gifted children with advanced academic abilities; and children with orthopedic or neurological impairments."
-    },
-    {
         "id": "2003",
         "Name": "Day-Care Center",
         "img": "https://cdn.britannica.com/24/141224-050-0F5FA19C/Caregivers-children-day-care-centre.jpg",
@@ -70,5 +34,41 @@
         "duration": "8 Months",
         "regFee": "10",
         "description": "Ready for a fantastic crafting session with your kids or students? We have a ton of engaging art and craft for kids to make and you’ll find ideas for all ages and for all occasions. We have hundreds of easy to make ideas with simple step by step tutorials you and your kids will easily follow."
+    },
+    {
+        "id": "2001",
+        "Name": "Nursery",
+        "img": "https://images.adsttc.com/media/images/5012/c01a/28ba/0d14/7d00/086d/large_jpg/stringio.jpg",
+        "ageLimit": "3-4 Years",
+        "duration": "12 Months",
+        "regFee": "5",
+        "description": "A nursery school is a school for children between the ages of three and four years, staffed by suitably qualified and other professionals who encourage and supervise educational play rather than simply providing childcare."
+    },
+    {
+        "id": "2002",
+        "Name": "Kindergarten-1",
+        "img": "https://tootris.com/edu/wp-content/uploads/2020/04/difference-between-kinder-1200x900.png",
+        "ageLimit": "4-5 Years",
+        "duration": "12 Months",
+        "regFee": "10",
+        "description": "Children's thinking and learning beyond elementary school age continues to become more sophisticated in that older children are capable of solving more complex and abstract problems involving more variables, more logical steps, and more remote relations between analogous tasks, as well as those that require the coordination of various components of thinking."
+    },
+    {
+        "id": "2005",
+        "Name": "Kindergarten-2",
+        "img": "https://www.wimbledondaynursery.co.uk/blog/wp-content/uploads/2018/12/Perfect-Nursery-School-for-Your-Child-980x600.jpg",
+        "ageLimit": "5-6 Years",
+        "duration": "12 Months",
+        "regFee": "10",
+        "description": "During the child's year in kindergarten he/she will be learning many things in the areas of academics, physical development, socialization, and emotional development. Academic areas will include math, pre–reading, science, and social studies. Math skills to be covered include grouping, sorting, patterning, numbers, shapes, money, time, and measurement."
+    },
+    {
+        "id": "2006",
+        "Name": "Special Child Education",
+        "img": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Disabilities-Donna-Bowman-2.jpg",
+        "ageLimit": "1-12 Years",
+        "duration": "24 Months",
+        "regFee": "0",
+        "description": "Special education serves children with emotional, behavioral, or cognitive impairments or with intellectual, hearing, vision, speech, or learning disabilities; gifted children with advanced academic abilities; and children with orthopedic or neurological impairments."
     }
 ]
