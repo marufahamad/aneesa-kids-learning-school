@@ -7,7 +7,7 @@ const Header = () => {
         <div className="header-background">
             <NavBar></NavBar>
 
-            <div className="row header">
+            <div className="row header me-1">
                 <div className="col-md-6">
                     <h1 className="header-name pt-3 text-danger">Aneesa - Kids Learning School</h1>
                 </div><div className="col-md-6 my-auto background text-light">

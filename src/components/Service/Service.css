@@ -1,0 +1,10 @@
+.service-image{
+    width: 250px;
+    height: 170px;
+    border-radius: 5px;
+}
+.custom-bg{
+    background-color: rgba(134, 206, 67, 0.281);
+    width: 400px;
+    padding-left: 10px;
+}

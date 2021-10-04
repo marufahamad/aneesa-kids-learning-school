@@ -1,0 +1,13 @@
+.Nav-items {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(200, 200, 200);
+    cursor: pointer;
+    padding-top: 10px;
+    text-decoration: none;
+  }
+  .Nav-items:hover {
+    color: rgba(67, 206, 199, 0.5);
+  }

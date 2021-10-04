@@ -1,32 +1,74 @@
 const db = [
     {
-        id: 1001,
-        topic: 'Caring Kids',
-        image: 'https://png.pngtree.com/element_our/20200610/ourlarge/pngtree--image_2245591.jpg',
-        description: 'Healthy babies cry, coo and make other noises to express their needs and communicate with the people around them. Most of the time, you can figure out what they need. But there are times when even the most caring parent or caregiver can’t soothe a crying baby. The Caring Kids program provides resources and services to children ages 1 to 5 and their families to help support healthy and optimal child development.',
-        shortNote: 'The Caring Kids program provides resources and services to children ages 1 to 5 and their families to help support healthy and optimal child development.',
-
+        Name: 'Day-Care Center',
+        img: 'https://cdn.britannica.com/24/141224-050-0F5FA19C/Caregivers-children-day-care-centre.jpg',
+        ageLimit: '1-5 years',
+        duration: 'N/A',
+        regFee: 5,
+        description: 'Child care centers are designed to support the health, education and entertainment of young children. Toys are kept readily accessible, cots and cribs are provided for rest time and refrigerators and tables are are there for food storage and service.'
     },
     {
-        id: 1002,
-        topic: 'Special Care for Special Children',
-        image: 'https://i.ytimg.com/vi/So2eDnKosJc/maxresdefault.jpg',
-        description: 'A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child’s well-being and growth. Special needs can also be a legal designation, particularly in the adoption and foster care community, wherein the child and guardian receive support to help them both lead productive lives.',
-        shortNote: 'A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not.'
+        Name: 'Special Child Rehabilitation',
+        img: 'https://img.freepik.com/free-photo/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept_38019-1478.jpg?size=626&ext=jpg',
+        ageLimit: '1-8 years',
+        duration: '2 years',
+        regFee: 10,
+        description: 'Rehabilitation of children with disabilities may be summarized as meaning to integrate or re-integrate physically, sensor ally, mentally and/or psychologically impaired people into as full and as normal life roles as is possible.'
     },
     {
-        id: 1003,
-        topic: 'Good Environment',
-        image: 'https://www.thestatesman.com/wp-content/uploads/2020/05/study.jpg',
-        description: 'A good learning environment offers a safe platform for learners. Before you can expect learners to succeed academically, they should also feel safe both mentally and physically. While most of the schools take physical safety measures, not many learning platforms consider the mental safety of the learners.',
-        shortNote: 'A good learning environment offers a safe platform for learners.'
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
     },
     {
-        id: 1004,
-        topic: 'Expert Teachers for Everyone',
-        image: 'https://thehill.com/sites/default/files/styles/article_full/public/ca_teacher_102419_istock.jpg',
-        description: 'A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not. The state may declare this status for the purpose of offering benefits and assistance for the child’s well-being and growth. Special needs can also be a legal designation, particularly in the adoption and foster care community, wherein the child and guardian receive support to help them both lead productive lives.',
-        shortNote: 'A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not.'
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
+    },
+    {
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
+    },
+    {
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
+    },
+    {
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
+    },
+    {
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
+    },
+    {
+        Name: '',
+        img: '',
+        ageLimit: '',
+        duration: '',
+        regFee: '',
+        description: ''
     }
-
 ]
