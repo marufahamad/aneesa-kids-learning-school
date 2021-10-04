@@ -1,6 +1,6 @@
 import React from 'react';
-import { Container, Nav, Navbar } from 'react-bootstrap';
-import { Link, NavLink } from 'react-router-dom';
+import { Container, Navbar } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import logo from '../../images/android-chrome-512x512.png'
 import './NavBar.css'
 

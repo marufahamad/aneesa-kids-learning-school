@@ -3,7 +3,7 @@ import { Card, Col } from 'react-bootstrap';
 import './Help.css'
 
 const Help = (props) => {
-    const { image, topic, shortNote, description } = props.help;
+    const { image, topic, description } = props.help;
     return (
         <Col>
             <Card className="cards">

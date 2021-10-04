@@ -19,26 +19,31 @@ function App() {
             <Home></Home>
             <Footer></Footer>
           </Route>
+          {/* Home route */}
           <Route path="/home">
             <Header></Header>
             <Home></Home>
             <Footer></Footer>
           </Route>
+          {/* Services route */}
           <Route path="/services">
             <Header></Header>
             <Services></Services>
             <Footer></Footer>
           </Route>
+          {/* additional section route */}
           <Route path="/support">
             <Header></Header>
             <HowWeHelp></HowWeHelp>
             <Footer></Footer>
           </Route>
+          {/* about us route */}
           <Route path="/about">
             <Header></Header>
             <AboutUs></AboutUs>
             <Footer></Footer>
           </Route>
+          {/* 404 error handling */}
           <Route path="*">
             <NotFound></NotFound>
           </Route>

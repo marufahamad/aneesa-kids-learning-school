@@ -5,6 +5,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header-background">
+            {/* calling navbar */}
             <NavBar></NavBar>
 
             <div className="row header me-1">

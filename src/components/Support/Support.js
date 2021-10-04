@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
 const Support = (props) => {
+    // Destructuring
     const { image, topic, shortNote } = props.support;
     return (
         <Col>
