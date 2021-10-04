@@ -7,22 +7,21 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import AboutUs from './components/AboutUs/AboutUs';
 import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
+import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div className="App m-3">
+    <div className="App mx-2">
       <Router>
         <Switch>
           <Route exact path="/">
             <Header></Header>
-            <HowWeHelp></HowWeHelp>
-            <Services></Services>
+            <Home></Home>
             <Footer></Footer>
           </Route>
           <Route path="/home">
             <Header></Header>
-            <HowWeHelp></HowWeHelp>
-            <Services></Services>
+            <Home></Home>
             <Footer></Footer>
           </Route>
           <Route path="/services">

@@ -3,8 +3,10 @@ import { Row } from 'react-bootstrap';
 import Help from '../Help/Help';
 import './HowWeHelp.css'
 
+
 const HowWeHelp = () => {
     const [helps, setHelps] = useState([])
+
     useEffect(() => {
         fetch('./howWeHelp.JSON')
             .then(res => res.json())

@@ -1,9 +1,8 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import './Help.css'
 
-const Help = (props) => {
-    const { image, topic, shortNote, description } = props.help;
+const Support = (props) => {
+    const { image, topic, shortNote } = props.support;
     return (
         <Col>
             <Card className="cards">
@@ -11,7 +10,7 @@ const Help = (props) => {
                 <Card.Body>
                     <Card.Title>{topic}</Card.Title>
                     <Card.Text>
-                        {description}
+                        {shortNote}
                     </Card.Text>
                 </Card.Body>
             </Card>
@@ -19,4 +18,4 @@ const Help = (props) => {
     );
 };
 
-export default Help;
+export default Support;

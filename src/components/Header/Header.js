@@ -12,7 +12,7 @@ const Header = () => {
                     <h1 className="header-name pt-3 text-danger">Aneesa - Kids Learning School</h1>
                 </div><div className="col-md-6 my-auto background text-light">
                     <h2 className="text-warning">Joyful learning starts here!</h2>
-                    <h3>Inspire a lifetime of learning and discovery with our free and fun educational program for children ages two to eight.</h3>
+                    <h3>Inspire a lifetime of learning and discovery with our free and fun educational program for children ages two to twelve.</h3>
                 </div>
 
 

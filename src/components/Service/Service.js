@@ -2,7 +2,6 @@ import React from 'react';
 import './Service.css'
 
 const Service = (props) => {
-    console.log(props.service)
     const { Name, img, ageLimit, duration, regFee, description } = props.service;
 
     return (
