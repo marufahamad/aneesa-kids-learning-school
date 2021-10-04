@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Aneesa - Kids Learning School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped. [Visit our site](https://suspicious-poincare-e67f97.netlify.app/).
 
-## Available Scripts
+## `Its a Non Profitable Institute`
 
-In the project directory, you can run:
+Our institute is a non profitable organization with funding from government and non-government funds. We also accept donations.
 
 ### `yarn start`
 

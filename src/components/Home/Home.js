@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div className="background-services  mt-3 py-2">
             <Supports></Supports>
-            <h1 className="text-white">OUR SERVICES</h1>
+            <h1 className="text-white ">OUR SERVICES</h1>
             {
                 newServices.map(service => <Service service={service}></Service>)
             }
